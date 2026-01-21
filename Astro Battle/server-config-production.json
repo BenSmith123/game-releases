@@ -1,6 +1,12 @@
 {
     "1.2.2": {
-        "startTitle": "A newer version of the app is available!",
-        "startMessage": "Welcome!"
+        "showDialogOnStart": true,
+        "showAppStoreDownloadButton": true,
+        "gameStartDialogTitle": "",
+        "gameStartDialogDescription": "",
+        "iosStoreLink": "",
+        "androidStoreLink": "A newer version of the app is available!",
+        "discordPublicServerUrl": "",
+        "discordErrorWebhook": ""
     }
 }
