@@ -1,3 +1,14 @@
 {
-    
+    "1.2.2": { // config that maps to global.game_version - not iOS or Android app store version
+        "showDialogOnStart": true, // enable disable dialog & dialog related config
+        "showAppStoreDownloadButton": true,
+        "gameStartDialogTitle": "A newer version of the app is available!",
+        "gameStartDialogDescription": "A newer version of the app is available!",
+        "iosStoreLink": "https://temp",
+        "androidStoreLink": "https://temp",
+
+        // other config that can override hardcoded values
+        "discordPublicServerUrl": "", // ignored if empty
+        "discordErrorWebhook": "" // ignored if empty
+    }
 }

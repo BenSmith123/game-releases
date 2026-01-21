@@ -1,11 +1,11 @@
 {
-    "1.2.2": {
-        "showDialogOnStart": true,
-        "showAppStoreDownloadButton": true,
-        "gameStartDialogTitle": "A newer version of the app is available!",
-        "gameStartDialogDescription": "A newer version of the app is available!",
-        "iosStoreLink": "https://temp",
-        "androidStoreLink": "https://temp",
+    "1.2.0": {
+        "showDialogOnStart": false,
+        "showAppStoreDownloadButton": false,
+        "gameStartDialogTitle": "",
+        "gameStartDialogDescription": "",
+        "iosStoreLink": "",
+        "androidStoreLink": "",
         "discordPublicServerUrl": "",
         "discordErrorWebhook": ""
     }
