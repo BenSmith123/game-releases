@@ -1,4 +1,14 @@
 {
+    "1.2.3": {
+        "showDialogOnStart": false,
+        "showAppStoreDownloadButton": false,
+        "gameStartDialogTitle": "",
+        "gameStartDialogDescription": "",
+        "iosStoreLink": "",
+        "androidStoreLink": "",
+        "discordPublicServerUrl": "https://discord.gg/FGHZX62EQJ",
+        "discordErrorWebhook": ""
+    },
     "1.2.0": {
         "showDialogOnStart": false,
         "showAppStoreDownloadButton": false,
