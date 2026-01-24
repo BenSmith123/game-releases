@@ -1,6 +1,5 @@
 {
-    "1.2.3": {
-        "showDialogOnStart": false,
+    "1.2.2": {
         "showAppStoreDownloadButton": false,
         "gameStartDialogTitle": "",
         "gameStartDialogDescription": "",
