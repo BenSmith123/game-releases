@@ -1,11 +1,11 @@
 {
     "1.2.0": {
-        "showDialogOnStart": false,
-        "showAppStoreDownloadButton": false,
-        "gameStartDialogTitle": "",
-        "gameStartDialogDescription": "",
-        "iosStoreLink": "",
-        "androidStoreLink": "",
+        "showDialogOnStart": true,
+        "showAppStoreDownloadButton": true,
+        "gameStartDialogTitle": "Update available!",
+        "gameStartDialogDescription": "- Added tutorial#- Support ships - purchase and position ships to strengthen your fleet#- 45 new waves!#- Rebalancing of waves, costs etc.#- Visual improvements#- Bug fixes",
+        "iosStoreLink": "https://apps.apple.com/us/app/astro-battle-orbital-defense/id6757530098",
+        "androidStoreLink": "https://apps.apple.com/us/app/astro-battle-orbital-defense/id6757530098",
         "discordPublicServerUrl": "",
         "discordErrorWebhook": ""
     }
