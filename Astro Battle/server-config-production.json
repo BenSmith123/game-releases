@@ -1,4 +1,14 @@
 {
+    "1.3.0": {
+        "showDialogOnStart": true,
+        "showAppStoreDownloadButton": true,
+        "gameStartDialogTitle": "Update available!",
+        "gameStartDialogDescription": "- Creative mode is now free!#- Offline earnings - earn while you're away#- Added sound effects!#- New boss ship: Dreadnought#- New support ship: Titan#- Bug fixes",
+        "iosStoreLink": "https://apps.apple.com/us/app/astro-battle-orbital-defense/id6757530098",
+        "androidStoreLink": "https://apps.apple.com/us/app/astro-battle-orbital-defense/id6757530098",
+        "discordPublicServerUrl": "",
+        "discordErrorWebhook": ""
+    },
     "1.2.0": {
         "showDialogOnStart": true,
         "showAppStoreDownloadButton": true,
