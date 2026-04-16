@@ -1,4 +1,14 @@
 {
+    "1.4.0": {
+        "showDialogOnStart": true,
+        "showAppStoreDownloadButton": true,
+        "gameStartDialogTitle": "Economy update available!",
+        "gameStartDialogDescription": "- Reduced costs for turrets, support ships, upgrades, and repairs!#- Turrets can now be sold for 70% of total cost#- Support ships now cost scrap metal!#- Extended tutorial, new waves + extended final wave#- Bug fixes & other improvements",
+        "iosStoreLink": "https://apps.apple.com/us/app/astro-battle-orbital-defense/id6757530098",
+        "androidStoreLink": "https://play.google.com/store/apps/details?id=com.xdevelopment.astrobattle",
+        "discordPublicServerUrl": "",
+        "discordErrorWebhook": ""
+    },
     "1.3.4": {
         "showDialogOnStart": true,
         "showAppStoreDownloadButton": true,
